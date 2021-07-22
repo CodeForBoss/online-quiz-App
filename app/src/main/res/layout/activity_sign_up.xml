@@ -104,6 +104,7 @@
                         android:layout_weight="1"
                         android:fontFamily="fantasy"
                         android:id="@+id/maleRB"
+                        android:checked="true"
                         ></RadioButton>
                     <RadioButton
                         android:layout_width="match_parent"
